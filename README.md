@@ -69,12 +69,12 @@ UPS Delivery Team
 ---
 
 ## 🔎 Suspicious Indicators:
-- Suspicious Sender Domain: noreply@ups-shipping-alerts.net is not the official domain (ups.com).
-- Urgent Language: Phrases like "Action Required" increase urgency.
-- Low-Value Fee: The $2.99 fee is a trick to lure clicks without raising suspicion.
-- Phishing Link: The URL is fake and not related to the official UPS website.
-- Lack of Official Contact Methods: No phone number or manual instructions provided.
-- Social Engineering: Uses psychological pressure to trick the user.
+- **Suspicious Sender Domain:** noreply@ups-shipping-alerts.net is not the official domain (ups.com).
+- **Urgent Language:** Phrases like "Action Required" increase urgency.
+- **Low-Value Fee:** The $2.99 fee is a trick to lure clicks without raising suspicion.
+- **Phishing Link:** The URL is fake and not related to the official UPS website.
+- **Lack of Official Contact Methods:** No phone number or manual instructions provided.
+- **Social Engineering:** Uses psychological pressure to trick the user.
 
 ---
 
@@ -100,7 +100,7 @@ To help users detect phishing emails more efficiently, I built a smart tool that
 ⚠️ Suspicious
 ❌ Phishing
 - It has over 90% accuracy in identifying phishing emails.
-- 🔗 Check it out: Phishing Email Detector – GitHub
+- 🔗 [Check it out: Phishing Email Detector – GitHub](https://github.com/chandruthehacker/phishing-email-detector)
 
 ---
 
