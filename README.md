@@ -104,4 +104,4 @@ To help users detect phishing emails more efficiently, I built a smart tool that
 
 ---
 
-> Think before you click! Protect Before you risk!
+> 🧠 “Think before you click. Detect before you risk.”
