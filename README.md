@@ -114,7 +114,9 @@ To help users detect phishing emails more efficiently, I built a smart tool that
 ⚠️ Suspicious
 ❌ Phishing
 - It has over 90% accuracy in identifying phishing emails.
-- 🔗 [Check it out: Phishing Email Detector – GitHub](https://github.com/chandruthehacker/phishing-email-detector)
+- 🔗 [Source Code](https://github.com/chandruthehacker/phishing-email-detector)
+- 🔗 [Own Blog](https://chandruthehacker.github.io/portfolio/projects/all-projects/phising-email-detector/phising-email-detector.html)
+
 
 ---
 
