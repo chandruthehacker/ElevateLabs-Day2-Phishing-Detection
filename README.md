@@ -87,6 +87,20 @@ UPS Delivery Team
 
 ---
 
+### 📂 [SamplePhishMails/](https://github.com/chandruthehacker/phishing-email-detector/tree/main/SamplePhishMails)
+
+This folder contains a collection of over **10 real-world phishing email samples** I analyzed during this project. Each sample demonstrates various phishing techniques, such as:
+
+- Fake login pages  
+- Spoofed domains  
+- Suspicious keywords (e.g., *Urgent*, *Password Reset*)  
+- Malicious attachments and phishing links  
+- Social engineering tactics
+
+These samples were used to improve the accuracy of my **AI-powered phishing detection tool** and can be useful for educational or analysis purposes.
+
+---
+
 ## 🤖 My AI-Powered Phishing Email Detector Tool
 
 To help users detect phishing emails more efficiently, I built a smart tool that integrates Google Generative AI through an API.
