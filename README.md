@@ -87,7 +87,7 @@ UPS Delivery Team
 
 ---
 
-### 📂 [SamplePhishMails/](https://github.com/chandruthehacker/phishing-email-detector/tree/main/SamplePhishMails)
+### 📂 [SamplePhishMails/](https://github.com/chandruthehacker/ElevateLabs-Day2-Phishing-Detection/tree/main/SamplePhishMails)
 
 This folder contains a collection of over **10 real-world phishing email samples** I analyzed during this project. Each sample demonstrates various phishing techniques, such as:
 
