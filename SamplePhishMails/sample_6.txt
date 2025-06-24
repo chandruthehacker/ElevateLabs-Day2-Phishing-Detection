@@ -1,0 +1,21 @@
+Subject: Immediate Action Required: Your Account Has Been Compromised!
+
+From: security-alert@microsoft-support.com
+
+Body:
+
+Dear Valued Customer,
+
+We have detected unusual activity on your Microsoft account from an unrecognized device/location. For your security, we have temporarily suspended your account.
+
+To reactivate your account and ensure your information remains secure, please verify your identity immediately by clicking on the link below:
+
+[Link: hxxps://login.micros0ft-security-center.com/verify]
+
+Failure to complete this verification within 24 hours will result in permanent account deactivation.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Microsoft Security Team

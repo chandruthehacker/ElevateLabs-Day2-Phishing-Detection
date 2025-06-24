@@ -1,0 +1,21 @@
+Subject: Unusual Login Activity On Your Instagram Account
+
+From: security@instagrarn-help.com
+
+Body:
+
+Hi [Your Instagram Username],
+
+We noticed a login attempt from an unrecognized device or location at [Date and Time] from [IP Address / Location, e.g., "India"].
+
+If this wasn't you, please secure your account immediately by clicking on the link below:
+
+[Link: hxxps://instagram-security-center.co/reset-password]
+
+If this was you, you can disregard this email.
+
+For your security, we recommend regularly reviewing your account activity.
+
+Thanks,
+
+The Instagram Team

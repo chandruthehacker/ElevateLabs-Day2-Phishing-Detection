@@ -1,0 +1,10 @@
+Subject: Delivery Failed – Confirm Your Address
+From: "DHL Support" <tracking@dhl-package[.]info>
+
+Your package (Tracking #DHLEU8472993) couldn’t be delivered due to an incorrect address.  
+
+📦 **Update Delivery Info Here**: http://dhl-tracking[.]net/8472993  
+
+*Note:* Package will be returned in 24 hours if unclaimed.  
+
+DHL Customer Service  

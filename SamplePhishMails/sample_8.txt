@@ -1,0 +1,19 @@
+Subject: Your Package is Delayed / Unable to Deliver - Action Required
+
+From: noreply@ups-shipping-alerts.net
+
+Body:
+
+Dear Customer,
+
+We regret to inform you that there has been an issue with the delivery of your package (Tracking #1ZW234567890). The delivery was unsuccessful due to an unpaid shipping fee/incorrect address.
+
+To reschedule your delivery and avoid further delays, please update your information and pay the outstanding fee of $2.99 by clicking on the link below:
+
+[Link: hxxps://ups-tracking-portal.delivery-updates.org/reschedule]
+
+Please note that if the information is not updated within 48 hours, your package will be returned to the sender.
+
+Thank you,
+
+UPS Delivery Team

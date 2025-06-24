@@ -1,0 +1,21 @@
+Subject: Mandatory Software Update & Security Policy Change
+
+From: it-support@yourcompanyname.com (Spoofed internal email address)
+
+Body:
+
+Dear Employee,
+
+As part of our ongoing commitment to enhance our cybersecurity infrastructure, the IT Department is rolling out a mandatory system update. This update includes new security protocols and a revised acceptable use policy.
+
+You are required to install this update by logging into your employee portal within the next 24 hours. Failure to do so will result in restricted access to company resources.
+
+Please click here to access the update portal:
+
+[Link: hxxps://employee-portal.yourcompanyname-internal.net/update]
+
+Please review the new security policy document attached.
+
+Thank you,
+
+IT Department

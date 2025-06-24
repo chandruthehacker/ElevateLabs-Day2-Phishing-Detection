@@ -1,0 +1,11 @@
+Subject: CONGRATULATIONS! You’ve Received a Bonus
+From: "HR Department" <hr@yourcompany-hr[.]com>
+
+text
+Dear Employee,  
+
+You’ve been awarded a **Q3 Performance Bonus ($1,200)**! Click below to submit your details for direct deposit:  
+
+🔗 **Claim Bonus**: http://hr-yourcompany[.]com/bonus  
+
+*Deadline:* 48 hours  

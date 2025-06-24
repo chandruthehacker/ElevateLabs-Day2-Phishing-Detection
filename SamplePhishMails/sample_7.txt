@@ -1,0 +1,21 @@
+Subject: Invoice #20250624-98765 for Recent Purchase
+
+From: accounting@amz0n-billing.co
+
+Body:
+
+Dear Customer,
+
+Thank you for your recent order!
+
+Your attached invoice #20250624-98765 for $479.99 for "SONY WH-1000XM5 Noise Cancelling Headphones" is now available.
+
+You can view your detailed invoice and manage your order by clicking here:
+
+[Link: hxxps://order-details.amz0n-customer-service.com/invoice]
+
+If you did not make this purchase or believe this is an error, please click the link above to dispute the charge immediately.
+
+Thank you,
+
+Amazon Billing Department

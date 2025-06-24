@@ -1,0 +1,12 @@
+Subject: ACTION REQUIRED: Your Microsoft Account Will Be Locked
+From: "Microsoft Support" no-reply@microsoft-support.com
+
+Dear User,  
+
+We detected unusual login attempts to your Microsoft account. For your security, we’ll suspend your account in **24 hours** unless you verify your identity.  
+
+➡ **Verify Now**: http://microsoft-secure-login[.]com  
+
+*Note:* Failure to act will result in permanent data loss.  
+
+Microsoft Security Team

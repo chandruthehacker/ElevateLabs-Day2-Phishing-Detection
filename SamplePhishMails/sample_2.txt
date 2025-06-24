@@ -1,0 +1,13 @@
+Subject: Overdue Invoice #INV-28746 (Payment Required)
+From: "Accounting Dept" <billing@acme-corp[.]net>
+
+Hi [Recipient's Name],  
+
+Your invoice **#INV-28746** for $1,250.00 is overdue. Please review the attached PDF and process payment today to avoid service disruption.  
+
+📎 **Invoice_28746.pdf** (Password: "secure123")  
+
+Questions? Reply to this email.  
+
+Accounts Payable  
+ACME Corporation  
